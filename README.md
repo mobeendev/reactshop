@@ -13,11 +13,14 @@ This is a demo E-commerce react application
 * User Management in Cloud Firestore
 
 ### Screens
+##Home
 ![Home Page](https://github.com/mobeendev/reactshop/blob/master/src/assets/screens/home.png)
 
+##Shop
 ![Shop Page](https://github.com/mobeendev/reactshop/blob/master/src/assets/screens/shop.png)
 
-![Sign In](https://github.com/mobeendev/reactshop/blob/master/src/assets/screens/firebase_login.png)
+##Sing Up & Sing In
+![Sign In](https://github.com/mobeendev/reactshop/blob/master/src/assets/screens/singup-singin.png)
 
 
 ### Profile Links
