@@ -2,7 +2,7 @@
   "name": "complete-react-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mobeendev/reactshop",
+  "homepage": "https://mobeendev.github.io/reactshop/",
   "dependencies": {
     "firebase": "^7.6.1",
     "node-sass": "^4.13.0",
