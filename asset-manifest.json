@@ -1,14 +1,14 @@
 {
-  "main.css": "/mobeendev/reactshop/static/css/main.7081d58d.chunk.css",
-  "main.js": "/mobeendev/reactshop/static/js/main.ee55870b.chunk.js",
-  "main.js.map": "/mobeendev/reactshop/static/js/main.ee55870b.chunk.js.map",
-  "runtime~main.js": "/mobeendev/reactshop/static/js/runtime~main.e2ea34bb.js",
-  "runtime~main.js.map": "/mobeendev/reactshop/static/js/runtime~main.e2ea34bb.js.map",
-  "static/js/2.cc5126f3.chunk.js": "/mobeendev/reactshop/static/js/2.cc5126f3.chunk.js",
-  "static/js/2.cc5126f3.chunk.js.map": "/mobeendev/reactshop/static/js/2.cc5126f3.chunk.js.map",
-  "index.html": "/mobeendev/reactshop/index.html",
-  "precache-manifest.30cea0678f184e7886022bfa8d3f3065.js": "/mobeendev/reactshop/precache-manifest.30cea0678f184e7886022bfa8d3f3065.js",
-  "service-worker.js": "/mobeendev/reactshop/service-worker.js",
-  "static/css/main.7081d58d.chunk.css.map": "/mobeendev/reactshop/static/css/main.7081d58d.chunk.css.map",
-  "static/media/crown.19ef7b17.svg": "/mobeendev/reactshop/static/media/crown.19ef7b17.svg"
+  "main.css": "/reactshop/static/css/main.7081d58d.chunk.css",
+  "main.js": "/reactshop/static/js/main.ee55870b.chunk.js",
+  "main.js.map": "/reactshop/static/js/main.ee55870b.chunk.js.map",
+  "runtime~main.js": "/reactshop/static/js/runtime~main.8c2e8932.js",
+  "runtime~main.js.map": "/reactshop/static/js/runtime~main.8c2e8932.js.map",
+  "static/js/2.1df76050.chunk.js": "/reactshop/static/js/2.1df76050.chunk.js",
+  "static/js/2.1df76050.chunk.js.map": "/reactshop/static/js/2.1df76050.chunk.js.map",
+  "index.html": "/reactshop/index.html",
+  "precache-manifest.60a653369aba626b424aac24207fadbd.js": "/reactshop/precache-manifest.60a653369aba626b424aac24207fadbd.js",
+  "service-worker.js": "/reactshop/service-worker.js",
+  "static/css/main.7081d58d.chunk.css.map": "/reactshop/static/css/main.7081d58d.chunk.css.map",
+  "static/media/crown.19ef7b17.svg": "/reactshop/static/media/crown.19ef7b17.svg"
 }
